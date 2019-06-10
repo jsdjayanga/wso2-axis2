@@ -507,16 +507,9 @@
         </dependency>
         
         <dependency>
-            <groupId>org.wso2.orbit.org.apache.neethi</groupId>
+            <groupId>org.apache.neethi</groupId>
             <artifactId>neethi</artifactId>
-            <version>${orbit.version.neethi}</version>
-            <optional>true</optional>
-            <exclusions>
-                <exclusion>
-                    <groupId>org.apache.neethi</groupId>
-                    <artifactId>neethi</artifactId>
-                </exclusion>
-            </exclusions>
+            <version>${neethi.version}</version>
         </dependency>
 
     </dependencies>
@@ -580,7 +573,7 @@
         <imp.pkg.version.javax.servlet>[2.6.0, 3.0.0)</imp.pkg.version.javax.servlet>
         <version.apache.felix.framework>1.4.0</version.apache.felix.framework>
         <xmlbeans.version>2.3.0</xmlbeans.version>
-        <orbit.version.neethi>2.0.4.wso2v5</orbit.version.neethi>
+        <neethi.version>2.0.5</neethi.version>
         <maven.surefire.plugin.version>2.13</maven.surefire.plugin.version>
     </properties>
 

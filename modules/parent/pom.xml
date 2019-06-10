@@ -66,63 +66,64 @@
         <url>http://issues.apache.org/jira/browse/AXIS2</url>
     </issueManagement-->
     <properties>
-        <neethi.version>2.0.4</neethi.version>
+        <neethi.version>2.0.5</neethi.version>
         <woden.version>1.0M9</woden.version>
-        <axiom.version>1.2.11.wso2v13</axiom.version>
-        <xmlschema.version>1.4.7.wso2v6</xmlschema.version>
-        <ant.version>1.7.0</ant.version>
+        <axiom.version>1.2.11-wso2v15</axiom.version>
+        <xmlschema.version>1.4.7-wso2v7</xmlschema.version>
+        <ant.version>1.10.6</ant.version>
         <antlr.version>2.7.7</antlr.version>
         <bsf.version>2.4.0</bsf.version>
-        <commons.codec.version>1.3</commons.codec.version>
-        <commons.fileupload.version>1.3.1.wso2v1</commons.fileupload.version>
-        <commons.httpclient.version>3.1</commons.httpclient.version>
-        <commons.io.version>2.0</commons.io.version>
-        <commons.logging.version>1.1.1</commons.logging.version>
-        <fi.version>1.2.7</fi.version>
-        <geronimo.spec.activation.version>1.0.2</geronimo.spec.activation.version>
-        <geronimo.spec.annotation.version>1.1</geronimo.spec.annotation.version>
-        <geronimo.spec.javamail.version>1.6</geronimo.spec.javamail.version>
+        <commons.codec.version>1.12</commons.codec.version>
+        <commons.fileupload.version>1.3.3.wso2v1</commons.fileupload.version>
+        <commons.httpclient.version>3.1-jbossorg-1</commons.httpclient.version>
+        <commons.io.version>2.6</commons.io.version>
+        <commons.logging.version>1.2</commons.logging.version>
+        <fi.version>1.2.16</fi.version>
+        <geronimo.spec.activation.version>1.1</geronimo.spec.activation.version>
+        <geronimo.spec.annotation.version>1.1.1</geronimo.spec.annotation.version>
+        <geronimo.spec.javamail.version>1.7.1</geronimo.spec.javamail.version>
         <geronimo.spec.stax.version>1.0.1</geronimo.spec.stax.version>
-        <geronimo.spec.metadata.version>1.1.2</geronimo.spec.metadata.version>
-        <geronimo.spec.saaj.version>1.0.1</geronimo.spec.saaj.version>
-        <geronimo.spec.jaxws.version>1.0</geronimo.spec.jaxws.version>
+        <geronimo.spec.metadata.version>1.1.3</geronimo.spec.metadata.version>
+        <geronimo.spec.saaj.version>1.1</geronimo.spec.saaj.version>
+        <geronimo.spec.jaxws.version>1.2</geronimo.spec.jaxws.version>
         <google.gson.version>2.8.5</google.gson.version>
-        <httpcore.version>4.2.3</httpcore.version>
+        <httpcore.version>4.4.11</httpcore.version>
         <intellij.version>5.0</intellij.version>
         <jalopy.version>1.5rc3</jalopy.version>
-        <jaxb.api.version>2.1</jaxb.api.version>
-        <jaxbri.version>2.1.7</jaxbri.version>
-        <jaxen.version>1.1.1</jaxen.version>
-        <jettison.version>1.3.4</jettison.version>
-        <jibx.version>1.2.6</jibx.version>
+        <jaxb.api.version>2.4.0-b180830.0359</jaxb.api.version>
+        <jaxbri.version>2.2.6</jaxbri.version>
+        <jaxen.version>1.2.0</jaxen.version>
+        <jettison.version>1.4.0</jettison.version>
+        <jibx.version>1.3.1</jibx.version>
         <junit.version-jdk1.4>3.8.2</junit.version-jdk1.4>
-        <junit.version>4.11</junit.version>
-        <log4j.version>1.2.15</log4j.version>
-        <maven.archiver.version>2.2</maven.archiver.version>
-        <maven.artifact.version>2.0.8</maven.artifact.version>
+        <junit.version>4.12</junit.version>
+        <log4j.version>1.2.17</log4j.version>
+        <maven.archiver.version>3.0.0</maven.archiver.version>
+        <maven.artifact.version>2.2.1</maven.artifact.version>
         <maven.plugin.testing.version>1.1</maven.plugin.testing.version>
-        <maven.version>2.0.7</maven.version>
-        <plexus.utils.version>1.4.9</plexus.utils.version>
+        <maven.project.version>2.2.1</maven.project.version>
+        <maven.version>2.2.1</maven.version>
+        <plexus.utils.version>3.2.0</plexus.utils.version>
         <rhino.version>1.6R7</rhino.version>
-        <servlet.api.version>2.3</servlet.api.version>
-        <spring.version>2.5.1</spring.version>
+        <servlet.api.version>3.0-alpha-1</servlet.api.version>
+        <spring.version>5.2.0.M2</spring.version>
         <stax.api.version>1.0.1</stax.api.version>
-        <stax.impl.artifact>wstx-asl</stax.impl.artifact>
+        <stax.impl.artifact>woodstox-core-asl</stax.impl.artifact>
         <stax.impl.groupid>org.codehaus.woodstox</stax.impl.groupid>
-        <stax.impl.version>3.2.9</stax.impl.version>
+        <stax.impl.version>4.4.1</stax.impl.version>
         <tomcat.version>7.0.8</tomcat.version>
-        <wsdl4j.version>1.6.2</wsdl4j.version>
-        <xalan.version>2.7.0</xalan.version>
-        <xmlbeans.version>2.3.0</xmlbeans.version>
+        <wsdl4j.version>1.6.3</wsdl4j.version>
+        <xalan.version>2.7.2</xalan.version>
+        <xmlbeans.version>3.1.0</xmlbeans.version>
         <xml_resolver.version>1.2</xml_resolver.version>
-        <xmlunit.version>1.3</xmlunit.version>
-        <commons.lang.version>2.3</commons.lang.version>
+        <xmlunit.version>1.6</xmlunit.version>
+        <commons.lang.version>2.6</commons.lang.version>
         <javax.mail.version>1.4</javax.mail.version>
-        <commons.cli.version>1.2</commons.cli.version>
+        <commons.cli.version>1.4</commons.cli.version>
         <!-- The build failing if tests are skipped is very annoying -->
         <failIfNoTests>false</failIfNoTests>
         <m2Repository>'${settings.localRepository}'</m2Repository>
-        <geronimo-spec.jta.version>1.1</geronimo-spec.jta.version>
+        <geronimo-spec.jta.version>1.1.1</geronimo-spec.jta.version>
     </properties>
     <mailingLists>
         <mailingList>
@@ -804,12 +805,12 @@
             <dependency>
                 <groupId>org.aspectj</groupId>
                 <artifactId>aspectjrt</artifactId>
-                <version>1.6.1</version>
+                <version>1.9.4</version>
             </dependency>
             <dependency>
                 <groupId>org.aspectj</groupId>
                 <artifactId>aspectjweaver</artifactId>
-                <version>1.6.1</version>
+                <version>1.9.4</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.xmlbeans</groupId>
@@ -830,7 +831,7 @@
             <dependency>
                 <groupId>org.apache.maven</groupId>
                 <artifactId>maven-project</artifactId>
-                <version>${maven.version}</version>
+                <version>${maven.project.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.maven</groupId>
@@ -887,67 +888,67 @@
             <dependency>
                 <groupId>org.eclipse.core</groupId>
                 <artifactId>jobs</artifactId>
-                <version>3.2.0-v20060603</version>
+                <version>3.6.0-v20140424-0053</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.core</groupId>
                 <artifactId>resources</artifactId>
-                <version>3.2.1-R32x_v20060914</version>
+                <version>3.3.0-v20070604</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.core</groupId>
                 <artifactId>runtime</artifactId>
-                <version>3.2.0-v20060603</version>
+                <version>3.10.0-v20140318-2214</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.equinox</groupId>
                 <artifactId>common</artifactId>
-                <version>3.2.0-v20060603</version>
+                <version>3.6.200-v20130402-1505</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse</groupId>
                 <artifactId>jface</artifactId>
-                <version>3.2.1-M20060908-1000</version>
+                <version>3.3.0-I20070606-0010</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse</groupId>
                 <artifactId>osgi</artifactId>
-                <version>3.2.1-R32x_v20060919</version>
+                <version>3.10.0-v20140606-1445</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse</groupId>
                 <artifactId>swt</artifactId>
-                <version>3.2.1-v3235e</version>
+                <version>3.3.0-v3346</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.swt.win32.win32</groupId>
                 <artifactId>x86</artifactId>
-                <version>3.2.1-v3235</version>
+                <version>3.3.0-v3346</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.ui</groupId>
                 <artifactId>ide</artifactId>
-                <version>3.2.1-M20060915-1030</version>
+                <version>3.3.0-I20070620</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.core</groupId>
                 <artifactId>expressions</artifactId>
-                <version>3.2.1-r321_v20060721</version>
+                <version>3.3.0-v20070606-0010</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse</groupId>
                 <artifactId>ui</artifactId>
-                <version>3.2.1-M20060913-0800</version>
+                <version>3.3.0-I20070614-0800</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.ui</groupId>
                 <artifactId>workbench</artifactId>
-                <version>3.2.1-M20060906-0800</version>
+                <version>3.3.0-I20070608-1100</version>
             </dependency>
             <dependency>
                 <groupId>org.eclipse.update</groupId>
                 <artifactId>core</artifactId>
-                <version>3.2.1-v20092006</version>
+                <version>3.2.100-v20070615</version>
             </dependency>
             <dependency>
                 <groupId>com.intellij</groupId>

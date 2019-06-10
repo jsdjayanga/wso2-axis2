@@ -39,7 +39,7 @@
                 <include>org.apache.ws.commons.axiom:axiom-api:jar</include>
                 <include>org.apache.ws.commons.axiom:axiom-dom:jar</include>
                 <include>org.apache.ws.commons.axiom:axiom-impl:jar</include>                
-                <include>org.codehaus.woodstox:wstx-asl:jar</include>
+                <include>org.codehaus.woodstox:woodstox-core-asl:jar</include>
                 <include>org.apache.neethi:neethi:jar</include>
                 <include>stax:stax-api:jar</include>                
                 <include>org.apache.xmlbeans:xmlbeans:jar</include>
